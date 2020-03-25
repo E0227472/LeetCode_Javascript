@@ -1,0 +1,23 @@
+{
+  "name": "leet_code_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E0227472/LeetCode_Javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/E0227472/LeetCode_Javascript/issues"
+  },
+  "homepage": "https://github.com/E0227472/LeetCode_Javascript#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  }
+}
